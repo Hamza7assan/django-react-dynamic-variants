@@ -119,7 +119,7 @@ Request Body:
 }
 
 
-🛍️ Storefront Endpoints
+Storefront Endpoints
 
 12. Get Product for UI
 
