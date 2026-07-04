@@ -13,6 +13,7 @@ You can launch the entire stack (Database, Backend, Frontend, and Seed Data) wit
 - Storefront: http://localhost:5173
 - API Base URL: http://localhost:8000/api
 
+----------------------------------------------------------------
 
 
 You can run both the backend and frontend locally in under 15 minutes.
