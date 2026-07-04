@@ -1,7 +1,7 @@
 
 
 This repository contains a full-stack solution for the E-Commerce Product Variants technical assessment. It features a robust Django REST Framework backend and a dynamic React.js frontend.
-
+-----------------------------------------------------------------
 Quick Start Guide :
 
 
@@ -85,6 +85,7 @@ npm run dev
 
 
 The storefront will be available at http://localhost:5173/
+-----------------------------------------------------------------
 
 
 
