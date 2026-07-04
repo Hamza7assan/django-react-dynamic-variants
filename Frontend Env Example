@@ -1,0 +1,5 @@
+React/Vite Frontend Environment Variables
+
+The URL where your Django backend is running
+
+VITE_API_URL=http://localhost:8000
