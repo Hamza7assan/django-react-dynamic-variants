@@ -7,7 +7,9 @@ Quick Start Guide :
 
 🐳 Run with Docker (Recommended)
 You can launch the entire stack (Database, Backend, Frontend, and Seed Data) with one command:
+
 `docker-compose up --build`
+
 - Storefront: http://localhost:5173
 - API Base URL: http://localhost:8000/api
 
@@ -25,7 +27,9 @@ cd backend
 Create and activate a virtual environment:
 
 python -m venv venv
+
 Windows: venv\Scripts\activate
+
 macOS/Linux: source venv/bin/activate
 
 
